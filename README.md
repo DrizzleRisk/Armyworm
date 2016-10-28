@@ -1,20 +1,20 @@
 # Armyworm
   
           
-## ¼ò½é
-###*Armyworm*ÊÇÒ»¿îÓÃÓÚÑÐ¾¿ºÍ²âÊÔµÄIEÃÜÂëÊäÈë¿Ø¼þð¤³æ·À»¤ÄÜÁ¦µÄ²âÊÔ³ÌÐò
+## ç®€ä»‹
+###*Armyworm*æ˜¯ä¸€æ¬¾ç”¨äºŽç ”ç©¶å’Œæµ‹è¯•çš„IEå¯†ç è¾“å…¥æŽ§ä»¶ç²˜è™«é˜²æŠ¤èƒ½åŠ›çš„æµ‹è¯•ç¨‹åº
 
-##¿ª·¢»·¾³
+##å¼€å‘çŽ¯å¢ƒ
     Microsoft Visual Studio 2013 / MFC
     
-##Ê¹ÓÃËµÃ÷
-    1.±àÒë³ÌÐò
-    2.ÔËÐÐArmyworm£¬µã»÷¿ªÆôð¤³æ
-    3.´ò¿ªIE£¬×ªµ½°üº¬ÃÜÂëÊäÈë¿Ø¼þµÄÍøÒ³
+##ä½¿ç”¨è¯´æ˜Ž
+    1.ç¼–è¯‘ç¨‹åº
+    2.è¿è¡ŒArmywormï¼Œç‚¹å‡»å¼€å¯ç²˜è™«
+    3.æ‰“å¼€IEï¼Œè½¬åˆ°åŒ…å«å¯†ç è¾“å…¥æŽ§ä»¶çš„ç½‘é¡µ
    
-##³ÌÐò½ØÍ¼
+##ç¨‹åºæˆªå›¾
  ![image](https://github.com/DrizzleRisk/Armyworm/blob/master/screenshot.png)
-##±Ø¶ÁÊÂÏî
-	1.±¾´úÂë½ö¹©°²È«ÑÐ¾¿¼°ÊÚÈ¨²âÊÔÊ¹ÓÃ£¬ÈçÓÃÓÚ·Ç·¨ÓÃÍ¾£¬ºó¹û×Ô¸º
-	2.±¾´úÂëÊÇÇ°¼¸Äê±àÐ´µÄ£¬¿ªÔ´ºóÔÝÊ±²»»áÍ¬²½¸üÐÂ
+##å¿…è¯»äº‹é¡¹
+	1.æœ¬ä»£ç ä»…ä¾›å®‰å…¨ç ”ç©¶åŠæŽˆæƒæµ‹è¯•ä½¿ç”¨ï¼Œå¦‚ç”¨äºŽéžæ³•ç”¨é€”ï¼ŒåŽæžœè‡ªè´Ÿ
+	2.æœ¬ä»£ç æ˜¯å‰å‡ å¹´ç¼–å†™çš„ï¼Œå¼€æºåŽæš‚æ—¶ä¸ä¼šåŒæ­¥æ›´æ–°
 
